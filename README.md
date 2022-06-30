@@ -54,10 +54,14 @@ The two following plots show the detailed results. As my time is limited only a 
 ![](pngs/heat_table.png)
 
 <br/><br/>
+## Programming Language & Tools
+- Python
+- Pandas, Numpy, Scikit-Learn, SHAP
+- PowerBI
+
 ## Feedback & Questions
 
 If you have any feedback, please check out my email adress on my website or connect with LinkedIn. 
-
 
 ## 🔗 Links from the Author(Me)
 [Portfolio/Website](https://thejk.de/)<br/>
